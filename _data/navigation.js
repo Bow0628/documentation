@@ -92,11 +92,11 @@ module.exports = {
                 url: '/docs/beginners-tutorial/',
               },
               {
-                title: 'Intermediates - Random Numbers',
+                title: 'Random Numbers',
                 url: '/docs/intermediates-tutorial/',
               },
               {
-                title: 'Advanced - API Calls',
+                title: 'API Calls',
                 url: '/docs/advanced-tutorial/',
               },
             ],

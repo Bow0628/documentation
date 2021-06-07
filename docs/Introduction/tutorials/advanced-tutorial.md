@@ -2,11 +2,10 @@
 layout: nodes.liquid
 section: smartContract
 date: Last Modified
-title: "Advanced - API Calls"
+title: "API Calls Tutorial"
 permalink: "docs/advanced-tutorial/"
 excerpt: "Calling APIs from Smart Contracts"
 whatsnext: {"Make a GET Request":"/docs/make-a-http-get-request/", "Make an Existing Job Request":"/docs/existing-job-request/"}
-hidden: false
 metadata: 
   image: 
     0: "/files/04b8e56-cl.png"

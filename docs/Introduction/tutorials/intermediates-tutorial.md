@@ -2,13 +2,12 @@
 layout: nodes.liquid
 section: smartContract
 date: Last Modified
-title: "Intermediates - Random Numbers"
+title: "Random Numbers Tutorial"
 permalink: "docs/intermediates-tutorial/"
 excerpt: "Using Chainlink VRF"
-whatsnext: {"Get a Random Number":"/docs/get-a-random-number/", "Advanced - API Calls":"/docs/advanced-tutorial/"}
-hidden: false
+whatsnext: {"Get a Random Number":"/docs/get-a-random-number/", "API Calls Tutorial":"/docs/advanced-tutorial/"}
 metadata: 
-  title: "Intermediates Tutorial"
+  title: "Random Numbers Tutorial"
   description: "Learn how to use randomness in your smart contracts using Chainlink VRF."
   image: 
     0: "/files/2a242f1-link.png"
