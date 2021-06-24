@@ -42,6 +42,11 @@
         "source": "/docs/adapters",
         "destination": "/docs/core-adapters/",
         "type": 301
+      },
+      {
+        "source": "/docs/example-walkthrough",
+        "destination": "/docs/user-guides/",
+        "type": 301
       }
     ]
   }
